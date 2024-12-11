@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "allowJs": true,
+    "moduleResolution": "node"
+  },
+  "include": ["app/**/*.jsx", "index.js", "app/screens/HomeScreen.js", "app/screens/LoginScreen.js", "App.js"],
+  "extends": "expo/tsconfig.base"
+}
